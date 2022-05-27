@@ -12,13 +12,13 @@ Javascript, HTML, CSS...
 
 ## 🔗 [Frontend Developer at Shu: hub](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/webpage)
 
-## 🔗 [Internship at Zuri](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/Zuri%20internship)
+## 🔗 [Front end Development Internship at Zuri](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/Zuri%20internship)
 
-## 🔗 [Internship at bincom tech](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/bincom_mobile_app_training/bincom)
+## 🔗 [Front end Development  Internship at bincom tech](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/bincom_mobile_app_training/bincom)
 
-## 🔗 [Student at Future Academy Africa](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/FAA)
+## 🔗 [Front end Developer Student at Future Academy Africa](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/FAA)
 
 
-## 🔗 [Personal Project(Neumorphism Css Login page)](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/login%20page%20with%20css%20and%20neumophism)
-## 🔗 [Personal Project(Neumorphism Wall Clock)](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/WALL%20CLOCK)
-## 🔗 [Personal Project(News Template)](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/news%20template)
+## 🔗 [Front end Development Personal Project(Neumorphism Css Login page)](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/login%20page%20with%20css%20and%20neumophism)
+## 🔗 [Front end Development Personal Project(Neumorphism Wall Clock)](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/WALL%20CLOCK)
+## 🔗 [Front end Development Personal Project(News Template)](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/news%20template)
