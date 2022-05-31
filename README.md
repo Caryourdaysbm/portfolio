@@ -14,7 +14,7 @@ Javascript, HTML, CSS...
 
 ## 🔗 [Front end Development Internship at Zuri](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/Zuri%20internship)
 
-## 🔗 [Front end Development  Internship at bincom tech](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/bincom_mobile_app_training/bincom)
+## 🔗 [Mobile App Development  Internship at bincom tech](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/bincom_mobile_app_training/bincom)
 
 ## 🔗 [Front end Developer Student at Future Academy Africa](https://github.com/Caryourdaysbm/my-html-and-css-code/tree/main/FAA)
 
